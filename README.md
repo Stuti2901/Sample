@@ -1,4 +1,4 @@
 # Sample
 This is my first Git repository.
 <br>
-Author - Stuti Shah
+Author - Stuti Elesh Shah
